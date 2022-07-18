@@ -20,6 +20,9 @@ def test_dynamic_label():
 def test_decorator_labels():
     pass
 
+def test_new_labels():
+    pass
+
 
 
 
