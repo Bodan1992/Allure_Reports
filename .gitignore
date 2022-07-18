@@ -43,3 +43,9 @@ __pycache__/
 # Environments
 .venv*
 venv*/
+
+# Allure Results
+allure-results
+
+#Manual
+Manual.py
